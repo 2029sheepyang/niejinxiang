@@ -3,10 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 publishDir = "docs"
-
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-
